@@ -1,4 +1,22 @@
+### Solutions
+| Exercise | Notebook |
+|---|---|
+| 1 | [comparacao_otimizadores_rosenbrock.ipynb](comparacao_otimizadores_rosenbrock.ipynb) |
+| 3 | [comparacao_fcnn_svm_rbf.ipynb](comparacao_fcnn_svm_rbf.ipynb) |
+| 4 | [classificacao_fraturas_cnn_alexnet.ipynb](classificacao_fraturas_cnn_alexnet.ipynb) |
+| 5 | [deconvolucao_rnn.ipynb](deconvolucao_rnn.ipynb) |
+| 6 | [picking_semblance_kmeans.ipynb](picking_semblance_kmeans.ipynb) |
+
 ### Activities
+#### Exercise 1 - Chapters 2 and 3
+- Compare at least 3 optimizers on the Rosenbrock function.
+
+- Use the implementations from chapters 2 and 3.
+
+- Submit a notebook with the results and analyses.
+
+- It can be implemented in MATLAB or Python.
+
 #### Exercise 3 - Chapters 5 and 7
 Using the laboratories provided at the [link](http://utam.gg.utah.edu/Classes/ML/LAB1/Chapter.Book.SVM/lab.html):
 
