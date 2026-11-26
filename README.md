@@ -19,3 +19,10 @@ Access the deconvolution with RNNs exercise via the [link](http://utam.gg.utah.e
 - Complete tasks (1), (2), and (3) as described in section 6, "Questions."
 
 - Submit your work either as MATLAB code accompanied by an analysis of the results, or as a Python notebook containing both the code and the analysis.
+
+#### Exercise 6 - Clustering
+Access the exercise on automatic semblance picking with clustering techniques via the [link](http://utam.gg.utah.edu/Classes/ML/LAB1/Chapter.Book.Cluster/Chapter.Cluster1/lab.html) and follow the instructions below:
+
+- Answer both questions in section 6, "Questions."
+
+- Submit a MATLAB script or a Python notebook with the analyses and the answers to both questions.
